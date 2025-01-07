@@ -1,0 +1,804 @@
+{
+    "Sheet1": [
+      {
+        "SoldierLv": 1,
+        "HpBase": 10,
+        "MpBase": 10,
+        "AtkBase": 2,
+        "SpBase": 20,
+        "DefBase": 0
+      },
+      {
+        "SoldierLv": 2,
+        "HpBase": 20,
+        "MpBase": 20,
+        "AtkBase": 5,
+        "SpBase": 21,
+        "DefBase": 1
+      },
+      {
+        "SoldierLv": 3,
+        "HpBase": 30,
+        "MpBase": 30,
+        "AtkBase": 8,
+        "SpBase": 22,
+        "DefBase": 2
+      },
+      {
+        "SoldierLv": 4,
+        "HpBase": 40,
+        "MpBase": 40,
+        "AtkBase": 11,
+        "SpBase": 23,
+        "DefBase": 3
+      },
+      {
+        "SoldierLv": 5,
+        "HpBase": 50,
+        "MpBase": 50,
+        "AtkBase": 14,
+        "SpBase": 24,
+        "DefBase": 4
+      },
+      {
+        "SoldierLv": 6,
+        "HpBase": 60,
+        "MpBase": 60,
+        "AtkBase": 17,
+        "SpBase": 25,
+        "DefBase": 5
+      },
+      {
+        "SoldierLv": 7,
+        "HpBase": 70,
+        "MpBase": 70,
+        "AtkBase": 20,
+        "SpBase": 26,
+        "DefBase": 6
+      },
+      {
+        "SoldierLv": 8,
+        "HpBase": 80,
+        "MpBase": 80,
+        "AtkBase": 23,
+        "SpBase": 27,
+        "DefBase": 7
+      },
+      {
+        "SoldierLv": 9,
+        "HpBase": 90,
+        "MpBase": 90,
+        "AtkBase": 26,
+        "SpBase": 28,
+        "DefBase": 8
+      },
+      {
+        "SoldierLv": 10,
+        "HpBase": 100,
+        "MpBase": 100,
+        "AtkBase": 29,
+        "SpBase": 29,
+        "DefBase": 9
+      },
+      {
+        "SoldierLv": 11,
+        "HpBase": 110,
+        "MpBase": 110,
+        "AtkBase": 32,
+        "SpBase": 30,
+        "DefBase": 10
+      },
+      {
+        "SoldierLv": 12,
+        "HpBase": 120,
+        "MpBase": 120,
+        "AtkBase": 35,
+        "SpBase": 31,
+        "DefBase": 11
+      },
+      {
+        "SoldierLv": 13,
+        "HpBase": 130,
+        "MpBase": 130,
+        "AtkBase": 38,
+        "SpBase": 32,
+        "DefBase": 12
+      },
+      {
+        "SoldierLv": 14,
+        "HpBase": 140,
+        "MpBase": 140,
+        "AtkBase": 41,
+        "SpBase": 33,
+        "DefBase": 13
+      },
+      {
+        "SoldierLv": 15,
+        "HpBase": 150,
+        "MpBase": 150,
+        "AtkBase": 44,
+        "SpBase": 34,
+        "DefBase": 14
+      },
+      {
+        "SoldierLv": 16,
+        "HpBase": 160,
+        "MpBase": 160,
+        "AtkBase": 47,
+        "SpBase": 35,
+        "DefBase": 15
+      },
+      {
+        "SoldierLv": 17,
+        "HpBase": 170,
+        "MpBase": 170,
+        "AtkBase": 50,
+        "SpBase": 36,
+        "DefBase": 16
+      },
+      {
+        "SoldierLv": 18,
+        "HpBase": 180,
+        "MpBase": 180,
+        "AtkBase": 53,
+        "SpBase": 37,
+        "DefBase": 17
+      },
+      {
+        "SoldierLv": 19,
+        "HpBase": 190,
+        "MpBase": 190,
+        "AtkBase": 56,
+        "SpBase": 38,
+        "DefBase": 18
+      },
+      {
+        "SoldierLv": 20,
+        "HpBase": 200,
+        "MpBase": 200,
+        "AtkBase": 59,
+        "SpBase": 39,
+        "DefBase": 19
+      },
+      {
+        "SoldierLv": 21,
+        "HpBase": 210,
+        "MpBase": 210,
+        "AtkBase": 62,
+        "SpBase": 40,
+        "DefBase": 20
+      },
+      {
+        "SoldierLv": 22,
+        "HpBase": 220,
+        "MpBase": 220,
+        "AtkBase": 65,
+        "SpBase": 41,
+        "DefBase": 21
+      },
+      {
+        "SoldierLv": 23,
+        "HpBase": 230,
+        "MpBase": 230,
+        "AtkBase": 68,
+        "SpBase": 42,
+        "DefBase": 22
+      },
+      {
+        "SoldierLv": 24,
+        "HpBase": 240,
+        "MpBase": 240,
+        "AtkBase": 71,
+        "SpBase": 43,
+        "DefBase": 23
+      },
+      {
+        "SoldierLv": 25,
+        "HpBase": 250,
+        "MpBase": 250,
+        "AtkBase": 74,
+        "SpBase": 44,
+        "DefBase": 24
+      },
+      {
+        "SoldierLv": 26,
+        "HpBase": 260,
+        "MpBase": 260,
+        "AtkBase": 77,
+        "SpBase": 45,
+        "DefBase": 25
+      },
+      {
+        "SoldierLv": 27,
+        "HpBase": 270,
+        "MpBase": 270,
+        "AtkBase": 80,
+        "SpBase": 46,
+        "DefBase": 26
+      },
+      {
+        "SoldierLv": 28,
+        "HpBase": 280,
+        "MpBase": 280,
+        "AtkBase": 83,
+        "SpBase": 47,
+        "DefBase": 27
+      },
+      {
+        "SoldierLv": 29,
+        "HpBase": 290,
+        "MpBase": 290,
+        "AtkBase": 86,
+        "SpBase": 48,
+        "DefBase": 28
+      },
+      {
+        "SoldierLv": 30,
+        "HpBase": 300,
+        "MpBase": 300,
+        "AtkBase": 89,
+        "SpBase": 49,
+        "DefBase": 29
+      },
+      {
+        "SoldierLv": 31,
+        "HpBase": 310,
+        "MpBase": 310,
+        "AtkBase": 92,
+        "SpBase": 50,
+        "DefBase": 30
+      },
+      {
+        "SoldierLv": 32,
+        "HpBase": 320,
+        "MpBase": 320,
+        "AtkBase": 95,
+        "SpBase": 51,
+        "DefBase": 31
+      },
+      {
+        "SoldierLv": 33,
+        "HpBase": 330,
+        "MpBase": 330,
+        "AtkBase": 98,
+        "SpBase": 52,
+        "DefBase": 32
+      },
+      {
+        "SoldierLv": 34,
+        "HpBase": 340,
+        "MpBase": 340,
+        "AtkBase": 101,
+        "SpBase": 53,
+        "DefBase": 33
+      },
+      {
+        "SoldierLv": 35,
+        "HpBase": 350,
+        "MpBase": 350,
+        "AtkBase": 104,
+        "SpBase": 54,
+        "DefBase": 34
+      },
+      {
+        "SoldierLv": 36,
+        "HpBase": 360,
+        "MpBase": 360,
+        "AtkBase": 107,
+        "SpBase": 55,
+        "DefBase": 35
+      },
+      {
+        "SoldierLv": 37,
+        "HpBase": 370,
+        "MpBase": 370,
+        "AtkBase": 110,
+        "SpBase": 56,
+        "DefBase": 36
+      },
+      {
+        "SoldierLv": 38,
+        "HpBase": 380,
+        "MpBase": 380,
+        "AtkBase": 113,
+        "SpBase": 57,
+        "DefBase": 37
+      },
+      {
+        "SoldierLv": 39,
+        "HpBase": 390,
+        "MpBase": 390,
+        "AtkBase": 116,
+        "SpBase": 58,
+        "DefBase": 38
+      },
+      {
+        "SoldierLv": 40,
+        "HpBase": 400,
+        "MpBase": 400,
+        "AtkBase": 119,
+        "SpBase": 59,
+        "DefBase": 39
+      },
+      {
+        "SoldierLv": 41,
+        "HpBase": 410,
+        "MpBase": 410,
+        "AtkBase": 122,
+        "SpBase": 60,
+        "DefBase": 40
+      },
+      {
+        "SoldierLv": 42,
+        "HpBase": 420,
+        "MpBase": 420,
+        "AtkBase": 125,
+        "SpBase": 61,
+        "DefBase": 41
+      },
+      {
+        "SoldierLv": 43,
+        "HpBase": 430,
+        "MpBase": 430,
+        "AtkBase": 128,
+        "SpBase": 62,
+        "DefBase": 42
+      },
+      {
+        "SoldierLv": 44,
+        "HpBase": 440,
+        "MpBase": 440,
+        "AtkBase": 131,
+        "SpBase": 63,
+        "DefBase": 43
+      },
+      {
+        "SoldierLv": 45,
+        "HpBase": 450,
+        "MpBase": 450,
+        "AtkBase": 134,
+        "SpBase": 64,
+        "DefBase": 44
+      },
+      {
+        "SoldierLv": 46,
+        "HpBase": 460,
+        "MpBase": 460,
+        "AtkBase": 137,
+        "SpBase": 65,
+        "DefBase": 45
+      },
+      {
+        "SoldierLv": 47,
+        "HpBase": 470,
+        "MpBase": 470,
+        "AtkBase": 140,
+        "SpBase": 66,
+        "DefBase": 46
+      },
+      {
+        "SoldierLv": 48,
+        "HpBase": 480,
+        "MpBase": 480,
+        "AtkBase": 143,
+        "SpBase": 67,
+        "DefBase": 47
+      },
+      {
+        "SoldierLv": 49,
+        "HpBase": 490,
+        "MpBase": 490,
+        "AtkBase": 146,
+        "SpBase": 68,
+        "DefBase": 48
+      },
+      {
+        "SoldierLv": 50,
+        "HpBase": 500,
+        "MpBase": 500,
+        "AtkBase": 149,
+        "SpBase": 69,
+        "DefBase": 49
+      },
+      {
+        "SoldierLv": 51,
+        "HpBase": 510,
+        "MpBase": 510,
+        "AtkBase": 152,
+        "SpBase": 70,
+        "DefBase": 50
+      },
+      {
+        "SoldierLv": 52,
+        "HpBase": 520,
+        "MpBase": 520,
+        "AtkBase": 155,
+        "SpBase": 71,
+        "DefBase": 51
+      },
+      {
+        "SoldierLv": 53,
+        "HpBase": 530,
+        "MpBase": 530,
+        "AtkBase": 158,
+        "SpBase": 72,
+        "DefBase": 52
+      },
+      {
+        "SoldierLv": 54,
+        "HpBase": 540,
+        "MpBase": 540,
+        "AtkBase": 161,
+        "SpBase": 73,
+        "DefBase": 53
+      },
+      {
+        "SoldierLv": 55,
+        "HpBase": 550,
+        "MpBase": 550,
+        "AtkBase": 164,
+        "SpBase": 74,
+        "DefBase": 54
+      },
+      {
+        "SoldierLv": 56,
+        "HpBase": 560,
+        "MpBase": 560,
+        "AtkBase": 167,
+        "SpBase": 75,
+        "DefBase": 55
+      },
+      {
+        "SoldierLv": 57,
+        "HpBase": 570,
+        "MpBase": 570,
+        "AtkBase": 170,
+        "SpBase": 76,
+        "DefBase": 56
+      },
+      {
+        "SoldierLv": 58,
+        "HpBase": 580,
+        "MpBase": 580,
+        "AtkBase": 173,
+        "SpBase": 77,
+        "DefBase": 57
+      },
+      {
+        "SoldierLv": 59,
+        "HpBase": 590,
+        "MpBase": 590,
+        "AtkBase": 176,
+        "SpBase": 78,
+        "DefBase": 58
+      },
+      {
+        "SoldierLv": 60,
+        "HpBase": 600,
+        "MpBase": 600,
+        "AtkBase": 179,
+        "SpBase": 79,
+        "DefBase": 59
+      },
+      {
+        "SoldierLv": 61,
+        "HpBase": 610,
+        "MpBase": 610,
+        "AtkBase": 182,
+        "SpBase": 80,
+        "DefBase": 60
+      },
+      {
+        "SoldierLv": 62,
+        "HpBase": 620,
+        "MpBase": 620,
+        "AtkBase": 185,
+        "SpBase": 81,
+        "DefBase": 61
+      },
+      {
+        "SoldierLv": 63,
+        "HpBase": 630,
+        "MpBase": 630,
+        "AtkBase": 188,
+        "SpBase": 82,
+        "DefBase": 62
+      },
+      {
+        "SoldierLv": 64,
+        "HpBase": 640,
+        "MpBase": 640,
+        "AtkBase": 191,
+        "SpBase": 83,
+        "DefBase": 63
+      },
+      {
+        "SoldierLv": 65,
+        "HpBase": 650,
+        "MpBase": 650,
+        "AtkBase": 194,
+        "SpBase": 84,
+        "DefBase": 64
+      },
+      {
+        "SoldierLv": 66,
+        "HpBase": 660,
+        "MpBase": 660,
+        "AtkBase": 197,
+        "SpBase": 85,
+        "DefBase": 65
+      },
+      {
+        "SoldierLv": 67,
+        "HpBase": 670,
+        "MpBase": 670,
+        "AtkBase": 200,
+        "SpBase": 86,
+        "DefBase": 66
+      },
+      {
+        "SoldierLv": 68,
+        "HpBase": 680,
+        "MpBase": 680,
+        "AtkBase": 203,
+        "SpBase": 87,
+        "DefBase": 67
+      },
+      {
+        "SoldierLv": 69,
+        "HpBase": 690,
+        "MpBase": 690,
+        "AtkBase": 206,
+        "SpBase": 88,
+        "DefBase": 68
+      },
+      {
+        "SoldierLv": 70,
+        "HpBase": 700,
+        "MpBase": 700,
+        "AtkBase": 209,
+        "SpBase": 89,
+        "DefBase": 69
+      },
+      {
+        "SoldierLv": 71,
+        "HpBase": 710,
+        "MpBase": 710,
+        "AtkBase": 212,
+        "SpBase": 90,
+        "DefBase": 70
+      },
+      {
+        "SoldierLv": 72,
+        "HpBase": 720,
+        "MpBase": 720,
+        "AtkBase": 215,
+        "SpBase": 91,
+        "DefBase": 71
+      },
+      {
+        "SoldierLv": 73,
+        "HpBase": 730,
+        "MpBase": 730,
+        "AtkBase": 218,
+        "SpBase": 92,
+        "DefBase": 72
+      },
+      {
+        "SoldierLv": 74,
+        "HpBase": 740,
+        "MpBase": 740,
+        "AtkBase": 221,
+        "SpBase": 93,
+        "DefBase": 73
+      },
+      {
+        "SoldierLv": 75,
+        "HpBase": 750,
+        "MpBase": 750,
+        "AtkBase": 224,
+        "SpBase": 94,
+        "DefBase": 74
+      },
+      {
+        "SoldierLv": 76,
+        "HpBase": 760,
+        "MpBase": 760,
+        "AtkBase": 227,
+        "SpBase": 95,
+        "DefBase": 75
+      },
+      {
+        "SoldierLv": 77,
+        "HpBase": 770,
+        "MpBase": 770,
+        "AtkBase": 230,
+        "SpBase": 96,
+        "DefBase": 76
+      },
+      {
+        "SoldierLv": 78,
+        "HpBase": 780,
+        "MpBase": 780,
+        "AtkBase": 233,
+        "SpBase": 97,
+        "DefBase": 77
+      },
+      {
+        "SoldierLv": 79,
+        "HpBase": 790,
+        "MpBase": 790,
+        "AtkBase": 236,
+        "SpBase": 98,
+        "DefBase": 78
+      },
+      {
+        "SoldierLv": 80,
+        "HpBase": 800,
+        "MpBase": 800,
+        "AtkBase": 239,
+        "SpBase": 99,
+        "DefBase": 79
+      },
+      {
+        "SoldierLv": 81,
+        "HpBase": 810,
+        "MpBase": 810,
+        "AtkBase": 242,
+        "SpBase": 100,
+        "DefBase": 80
+      },
+      {
+        "SoldierLv": 82,
+        "HpBase": 820,
+        "MpBase": 820,
+        "AtkBase": 245,
+        "SpBase": 101,
+        "DefBase": 81
+      },
+      {
+        "SoldierLv": 83,
+        "HpBase": 830,
+        "MpBase": 830,
+        "AtkBase": 248,
+        "SpBase": 102,
+        "DefBase": 82
+      },
+      {
+        "SoldierLv": 84,
+        "HpBase": 840,
+        "MpBase": 840,
+        "AtkBase": 251,
+        "SpBase": 103,
+        "DefBase": 83
+      },
+      {
+        "SoldierLv": 85,
+        "HpBase": 850,
+        "MpBase": 850,
+        "AtkBase": 254,
+        "SpBase": 104,
+        "DefBase": 84
+      },
+      {
+        "SoldierLv": 86,
+        "HpBase": 860,
+        "MpBase": 860,
+        "AtkBase": 257,
+        "SpBase": 105,
+        "DefBase": 85
+      },
+      {
+        "SoldierLv": 87,
+        "HpBase": 870,
+        "MpBase": 870,
+        "AtkBase": 260,
+        "SpBase": 106,
+        "DefBase": 86
+      },
+      {
+        "SoldierLv": 88,
+        "HpBase": 880,
+        "MpBase": 880,
+        "AtkBase": 263,
+        "SpBase": 107,
+        "DefBase": 87
+      },
+      {
+        "SoldierLv": 89,
+        "HpBase": 890,
+        "MpBase": 890,
+        "AtkBase": 266,
+        "SpBase": 108,
+        "DefBase": 88
+      },
+      {
+        "SoldierLv": 90,
+        "HpBase": 900,
+        "MpBase": 900,
+        "AtkBase": 269,
+        "SpBase": 109,
+        "DefBase": 89
+      },
+      {
+        "SoldierLv": 91,
+        "HpBase": 910,
+        "MpBase": 910,
+        "AtkBase": 272,
+        "SpBase": 110,
+        "DefBase": 90
+      },
+      {
+        "SoldierLv": 92,
+        "HpBase": 920,
+        "MpBase": 920,
+        "AtkBase": 275,
+        "SpBase": 111,
+        "DefBase": 91
+      },
+      {
+        "SoldierLv": 93,
+        "HpBase": 930,
+        "MpBase": 930,
+        "AtkBase": 278,
+        "SpBase": 112,
+        "DefBase": 92
+      },
+      {
+        "SoldierLv": 94,
+        "HpBase": 940,
+        "MpBase": 940,
+        "AtkBase": 281,
+        "SpBase": 113,
+        "DefBase": 93
+      },
+      {
+        "SoldierLv": 95,
+        "HpBase": 950,
+        "MpBase": 950,
+        "AtkBase": 284,
+        "SpBase": 114,
+        "DefBase": 94
+      },
+      {
+        "SoldierLv": 96,
+        "HpBase": 960,
+        "MpBase": 960,
+        "AtkBase": 287,
+        "SpBase": 115,
+        "DefBase": 95
+      },
+      {
+        "SoldierLv": 97,
+        "HpBase": 970,
+        "MpBase": 970,
+        "AtkBase": 290,
+        "SpBase": 116,
+        "DefBase": 96
+      },
+      {
+        "SoldierLv": 98,
+        "HpBase": 980,
+        "MpBase": 980,
+        "AtkBase": 293,
+        "SpBase": 117,
+        "DefBase": 97
+      },
+      {
+        "SoldierLv": 99,
+        "HpBase": 990,
+        "MpBase": 990,
+        "AtkBase": 296,
+        "SpBase": 118,
+        "DefBase": 98
+      },
+      {
+        "SoldierLv": 100,
+        "HpBase": 1000,
+        "MpBase": 1000,
+        "AtkBase": 299,
+        "SpBase": 119,
+        "DefBase": 99
+      }
+    ]
+}
