@@ -14,30 +14,6 @@
     },
     {
       "SoldierId": 1001,
-      "SoldierName": "刘备",
-      "IconPath": "LiuBei",
-      "SoldierType": 1,
-      "SoldierSort": 3,
-      "HpCoe": 1,
-      "MpCoe": 1,
-      "AtkCoe": 1,
-      "SpCoe": 1,
-      "DefCoe": 1
-    },
-    {
-      "SoldierId": 1002,
-      "SoldierName": "诸葛亮",
-      "IconPath": "ZhuGeliang",
-      "SoldierType": 1,
-      "SoldierSort": 5,
-      "HpCoe": 1,
-      "MpCoe": 1,
-      "AtkCoe": 1,
-      "SpCoe": 1,
-      "DefCoe": 1
-    },
-    {
-      "SoldierId": 1003,
       "SoldierName": "曹操",
       "IconPath": "CaoCao",
       "SoldierType": 1,
@@ -49,19 +25,7 @@
       "DefCoe": 1
     },
     {
-      "SoldierId": 1004,
-      "SoldierName": "司马懿",
-      "IconPath": "SiMayi",
-      "SoldierType": 1,
-      "SoldierSort": 3,
-      "HpCoe": 1,
-      "MpCoe": 1,
-      "AtkCoe": 1,
-      "SpCoe": 1,
-      "DefCoe": 1
-    },
-    {
-      "SoldierId": 1005,
+      "SoldierId": 1002,
       "SoldierName": "孙坚",
       "IconPath": "SunJian",
       "SoldierType": 1,
@@ -73,7 +37,7 @@
       "DefCoe": 1
     },
     {
-      "SoldierId": 1006,
+      "SoldierId": 1003,
       "SoldierName": "孙权",
       "IconPath": "SunQuan",
       "SoldierType": 1,
@@ -85,9 +49,105 @@
       "DefCoe": 1
     },
     {
-      "SoldierId": 1007,
+      "SoldierId": 1004,
       "SoldierName": "貂蝉",
       "IconPath": "DiaoChan",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1005,
+      "SoldierName": "典韦",
+      "IconPath": "DianWei",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1006,
+      "SoldierName": "关羽",
+      "IconPath": "GuanYu",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1007,
+      "SoldierName": "郭嘉",
+      "IconPath": "GuoJia",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1008,
+      "SoldierName": "马超",
+      "IconPath": "MaChao",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1009,
+      "SoldierName": "吕布",
+      "IconPath": "LvBu",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1010,
+      "SoldierName": "孙尚香",
+      "IconPath": "SunShanxiang",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1011,
+      "SoldierName": "赵云",
+      "IconPath": "ZhaoYun",
+      "SoldierType": 1,
+      "SoldierSort": 2,
+      "HpCoe": 1,
+      "MpCoe": 1,
+      "AtkCoe": 1,
+      "SpCoe": 1,
+      "DefCoe": 1
+    },
+    {
+      "SoldierId": 1012,
+      "SoldierName": "周瑜",
+      "IconPath": "ZhouYu",
       "SoldierType": 1,
       "SoldierSort": 2,
       "HpCoe": 1,
